@@ -1,6 +1,10 @@
 # IPython notebok
 .ipynb_checkpoints
 
+# Remove html and Rmd
+*.Rmd
+*.html
+
 # History files
 .Rhistory
 .Rapp.history
