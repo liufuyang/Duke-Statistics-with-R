@@ -47,6 +47,8 @@ sum(dbinom(70:245, 245, 0.25)) # direct add binomal
 ```
 gives result `0.1128`
 
+* * *
+
 ## Success-failure rule:
 A **binomial distribution** with at least 10 expected successes and 10 expected failures closely follow a **normal distribution**
 
